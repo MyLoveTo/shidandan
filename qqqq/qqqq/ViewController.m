@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"第一次测试");
+    NSLog(@"第二次测试");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
